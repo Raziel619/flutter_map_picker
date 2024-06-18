@@ -26,14 +26,14 @@ In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 
 ```
-map_pin_picker: <latest_version>
+map_picker: <latest_version>
 ```
 
 ## ❔ Usage
 
 ### Import this class
 ```dart
-import 'package:map_pin_picker/map_pin_picker.dart';
+import 'package:map_picker/map_picker.dart';
 ```
 
 ### Use MapPicker
